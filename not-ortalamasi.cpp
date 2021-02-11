@@ -1,3 +1,10 @@
+/*
+Author: MUHAMMED SEVİNÇTEKİN
+Date: 11.02.2021
+
+*/
+
+
 #include <iostream>
 #include <string>
 #include <sstream>
